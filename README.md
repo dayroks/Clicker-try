@@ -1,2 +1,0 @@
-# Clicker-try
-For test
